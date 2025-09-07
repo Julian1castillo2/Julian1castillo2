@@ -43,7 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julian1castillo2&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Julian1castillo2&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
